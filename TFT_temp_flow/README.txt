@@ -28,6 +28,7 @@ A0 		--> 	G2
 You will need to modify User_Setup.h. Modified file included here
 Read more here https://www.az-delivery.de/blogs/azdelivery-blog-fur-arduino-und-raspberry-pi/1-8-toll-tft-am-esp-32-dev-kit-c-betreiben
 
+For temperature and flow rate sensor, I used breakout module. One for both DS18B20 and one for YFS201. See sensor2.jpg
 
 ##DS18B20 Wiring
 DS18B20     	ESP32
