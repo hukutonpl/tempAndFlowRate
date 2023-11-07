@@ -3,7 +3,7 @@ Monitor CO2 laser temperature and flow rate using ESP32
 
 This is a project for my CO2 laser with 
 1. Monitor temperature using DS18B20
-2. Water flow using YFS201
+2. Water flow using YFS201 
 3. ESP32 microcontroller
 4. TFT 1.8 inch display
 
